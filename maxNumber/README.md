@@ -1,4 +1,4 @@
-The algorithm finds the largest number. The program gets new values until it recieves "Stop".
+The algorithm finds the largest number. The program gets new values until it receives "Stop".
 
 Sample input:
 100
