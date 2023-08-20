@@ -1,19 +1,14 @@
-Prints on the console the numbers from 1 to n.
+Prints on the console the numbers from n to 1.
 
 Sample input
-13
+7
 
 Sample output
-1
-2
-3
-4
-5
-6
 7
-8
-9
-10
-11
-12
-13
+6
+5
+4
+3
+2
+1
+
