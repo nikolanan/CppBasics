@@ -1,4 +1,4 @@
-Calculate the area of: square, rectangle or circle. The output must be formatted to the third decimal point.
+Calculate the area of a: square, rectangle or circle. The output must be formatted to the third decimal point.
 
 Sample input:
 square
