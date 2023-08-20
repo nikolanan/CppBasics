@@ -1,9 +1,9 @@
 Prints on the console the numbers from n to 1.
 
-Sample input
+Sample input:
 7
 
-Sample output
+Sample output:
 7
 6
 5
