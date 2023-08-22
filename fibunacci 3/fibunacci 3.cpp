@@ -8,6 +8,10 @@ int main()
     int theWantedNumber;
     cin >> theWantedNumber;
 
+    while (theWantedNumber <= 0 || theWantedNumber >= 94) {
+        cin >> theWantedNumber;
+    }
+
     if (theWantedNumber == 1) {
         cout << 1 << endl;
     }
