@@ -2,7 +2,7 @@ A program to calculate whether the budgeted funds are sufficient to make a film.
 The filming will require a certain number of extras, clothing for each extra and decor. 
 The decor for the film is worth 10% of the budget. If there are more than 150 extras, there will be a 10% clothing discount.
 
-Through the keyboard are entered the amount of the bugdet, the number of the extras and the price of clothing for an extra.
+Through the keyboard are entered the amount of the budget, the number of extras and the price of clothing for an extra.
 
 If the money for the decor and clothes is more than the budget, the output must be the following:
 
