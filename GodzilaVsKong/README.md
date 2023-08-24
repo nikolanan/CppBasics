@@ -7,9 +7,11 @@ Through the keyboard are entered the amount of the budget, the number of extras 
 If the money for the decor and clothes is more than the budget, the output must be the following:
 
 "Not enough money!"
+
 "Wingard needs {the amount of money needed} leva more."
 
 If the money for the decor and clothes is less than or equal to the budget:
 
 "Action!"
+
 "Wingard starts filming with {the amount of money left} leva left."
