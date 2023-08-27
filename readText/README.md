@@ -1,4 +1,4 @@
-The program prints everything that is entered though the keyboard unless it is "Stop".
+The program prints everything that is entered through the keyboard unless it is "Stop".
 
 Sample input: Alfred qwerty 123 fc Stop
 
