@@ -6,10 +6,15 @@ int main() {
 	int a, b;
 	cin >> a >> b;
 
-	if (a >= b) {
+	if (a > b) {
 		cout << a;
+	}
+	else if (a == b) {
+		cout << "Equal" << endl;
 	}
 	else {
 		cout << b;
 	}
+
+	return 0;
 }
