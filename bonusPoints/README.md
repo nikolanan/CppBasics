@@ -7,6 +7,7 @@ An initial integer is given - number of points. Bonus points are added to it acc
 Sample input: 15875
 
 Sample output:
+
 1589.5
 
 17464.5
