@@ -1,4 +1,4 @@
-The program finds the max and min integer of a sequence. The first entered number represents the count of numbers.
+The program finds the max and min integers of a sequence. The first entered number represents the count of numbers.
 
 Sample input: 7 3 4 5 123 43 0 2
 
