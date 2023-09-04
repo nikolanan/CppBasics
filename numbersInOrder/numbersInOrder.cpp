@@ -22,6 +22,8 @@ int main()
         swapping(y, z);
     }
 
-    cout << x << y << z;
+    cout << x << " " << y << " " << z << endl;
+    
+    return 0;
 }
 
