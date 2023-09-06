@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double factoriel(int number) {
+double factorial(int number) {
     int sum = 1;
     if (number == 0) {
         return 1;
@@ -25,7 +25,7 @@ int main()
     cin >> k;
 
 
-    double result = (factoriel(m) + factoriel(n) + factoriel(k)) / (factoriel(3) + factoriel(5));
+    double result = (factorial(m) + factorial(n) + factorial(k)) / (factorial(3) + factorial(5));
     cout << result;
 
 
