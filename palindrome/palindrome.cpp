@@ -20,5 +20,7 @@ int main()
     if (statement == true) {
         cout << "Yes";
     }
+
+    return 0;
 }
 
