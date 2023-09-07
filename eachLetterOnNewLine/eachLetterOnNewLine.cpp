@@ -9,5 +9,6 @@ int main()
     for (int i = 0; i < strlen(word); i++) {
         cout << word[i] << endl;
     }
+    return 0;
 }
 
