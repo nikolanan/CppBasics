@@ -10,5 +10,7 @@ int main()
 
 		cout << text[i] << endl;
 	}
+
+	return 0;
 }
 
