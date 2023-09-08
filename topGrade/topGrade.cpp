@@ -17,5 +17,7 @@ int main()
         }
     }
     cout << "Max grade is: " << maxGrade << endl;
+
+    return 0;
 }
 
