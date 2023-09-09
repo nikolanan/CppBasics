@@ -1,4 +1,4 @@
-Firstly an integer corresponding to the number of students is entered through the keyboard. Then, the grade that we search for. After that, a grade is entered for each student.
+Firstly an integer corresponding to the number of students is entered through the keyboard (30 students max). Then, the grade that we search for. After that, a grade is entered for each student.
 If there is a student with the searched grade the output is: "There is a student with such a grade", otherwise is: "There is no student with such a grade".
 
 Sample input: 
