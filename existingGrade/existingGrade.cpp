@@ -29,5 +29,7 @@ int main()
     else {
         cout << "There is no student with such a grade";
     }
+
+    return 0;
 }
 
