@@ -28,6 +28,6 @@ int main()
 	cout << car2.range << endl;
 	cout << car2.averageFuelConsumption << endl;
 
-	
+	return 0;
 }
 
