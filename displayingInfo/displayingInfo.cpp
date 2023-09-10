@@ -22,5 +22,7 @@ int main()
 	cout <<"Family name: " << firstStudent.lastName << endl;
 	cout <<"PID: " << firstStudent.PID << endl;
 	cout <<"Average grade: " << firstStudent.overallGrade << endl;
+
+	return 0;
 }
 
