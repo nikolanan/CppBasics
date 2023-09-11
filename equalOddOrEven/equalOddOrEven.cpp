@@ -38,5 +38,7 @@ int main()
 	else {
 		cout << "Equal count of odd and even numbers";
 	}
+
+	return 0;
 }
 
