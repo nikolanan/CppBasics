@@ -1,4 +1,4 @@
-A number larger than 5 must be entered. The program finds all numbers bellow that number which are divisble by 5.
+A number - n, larger than 5 must be entered. The program finds all numbers less than n which are divisible by 5.
 
 Sample input: 55
 
