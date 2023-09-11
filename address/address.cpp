@@ -12,5 +12,8 @@ int main()
     cout << "address b: " << &b << endl;
     cout << "address c: " << &c << endl;
     cout << "address d: " << &d << endl;
+
+    return 0;
+    
 }
 
